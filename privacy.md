@@ -1,6 +1,6 @@
 # The Daily Quest — Privacy Policy
 
-Draft for review — 29 October 2026. Describes versions 1.2.1 and 1.3. Before using this as the final policy, review the free Gmail arrangements, including any applicable UK international-transfer requirements.
+Last updated: 29 October 2026. Covers versions 1.2.1 and 1.3; data-clearing controls are available from version 1.3.
 
 ## Who we are
 
