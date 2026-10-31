@@ -1,6 +1,6 @@
 # The Daily Quest — Privacy Policy
 
-Last updated: 29 October 2026. Covers versions 1.2.1 and 1.3; data-clearing controls are available from version 1.3.
+Last updated: 31 October 2026. Covers versions 1.2.1, 1.3 and 1.4; data-clearing controls are available from version 1.3.
 
 ## Who we are
 
@@ -10,13 +10,13 @@ For support or privacy questions, contact thedailyquestapp@gmail.com.
 
 ## Information saved by the app
 
-The app saves an optional nickname, the selected age group, game answers, found words, stars, rewards and optional reminder settings on your device. This information personalises the greeting, remembers progress and provides reminders.
+The app saves an optional nickname, the selected age group, favourite Brain Boost subjects (from version 1.4), game answers, found words, stars, rewards and optional reminder settings on your device. This information personalises the greeting and quizzes, remembers progress and provides reminders.
 
 No account is required. We encourage children to use a made-up nickname and avoid entering a full name or other personal details.
 
 ## Information sent to us
 
-The app does not send the nickname, age-group choice, game progress or reminder settings to us. We cannot access that information on your device.
+The app does not send the nickname, age-group choice, subject preferences, game progress or reminder settings to us. We cannot access that information on your device.
 
 The app does not include advertising, third-party usage analytics, chat or in-app purchases. Game content is included in the app and can be played offline.
 
@@ -40,7 +40,7 @@ Device backups may retain copies according to your Apple or Google backup settin
 
 If a parent or guardian emails us, we receive their email address and the information included in their message. Please avoid sending children's personal information or screenshots containing it.
 
-We use correspondence to answer enquiries, resolve problems and handle privacy requests. Our lawful basis is our legitimate interest in providing support and managing the app, where that interest is not overridden by your rights. We may also process correspondence where necessary to meet a legal obligation.
+We use correspondence to answer enquiries, consider voluntarily submitted feedback and ideas, resolve problems and handle privacy requests. Our lawful basis is our legitimate interest in providing support and managing the app, where that interest is not overridden by your rights. We may also process correspondence where necessary to meet a legal obligation.
 
 We normally delete routine support correspondence within 12 months after an enquiry is resolved. We may retain specific correspondence longer where necessary to handle an ongoing complaint or meet a legal obligation.
 
